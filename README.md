@@ -1,2 +1,2 @@
 # mint 
-# Love Ice-Creame
+# Love Ice-Cream
