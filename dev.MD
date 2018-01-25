@@ -1,4 +1,5 @@
 # Command
+► สร้าง local repo ในโฟลเดอร์
 # git init
 # echo 'love' > jubjub.txt
 # git status
